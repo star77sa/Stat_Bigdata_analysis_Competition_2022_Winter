@@ -21,7 +21,7 @@
 
 - 랜덤포레스트의 MSE가 더 낮아 랜덤포레스트 모델을 채택
 
-![image](https://user-images.githubusercontent.com/73769046/156136086-5fbfe3fc-01c0-4800-9d77-d1083a3c4a4e.png)
+![image](https://user-images.githubusercontent.com/73769046/156136334-20e0a96b-9f90-40b1-94a1-733a98baab8c.png)
 
 x축 : 예측한 값 , y축 : 정답 값
 
