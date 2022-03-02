@@ -55,7 +55,7 @@ x축 : 예측한 값 , y축 : 정답 값
 
 *지하철 역사 미세먼지(PM10)의 확산방향과 확산속도 추정* 논문에 따르면 열차 운행 빈도가 미세먼지 농도에 큰 영향을 끼친다는 사실을 알아냄
 
-![image](https://user-images.githubusercontent.com/73769046/156322086-83406013-1585-4277-873c-49850fe4bb86.png)
+![image](https://user-images.githubusercontent.com/73769046/156322446-ceb5ec30-a901-4701-97e2-fc39d03fffe3.png)
 
 boxplot을 통해 나타내본 결과, 혼잡도가 아닌 운행 빈도에 의해 미세먼지의 농도가 영향을 받는 것을 볼 수 있었다.
 
